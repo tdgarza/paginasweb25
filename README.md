@@ -1,2 +1,2 @@
-# paginasweb25
-Paginas web de la materia
+# Tomas Garza
+Pagina dedicada a la materia de Construye Paginas Web
